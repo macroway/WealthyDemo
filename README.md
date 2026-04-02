@@ -1,6 +1,6 @@
 # Wealthy · 福利凑单 Agent UI Demo
 
-纯前端演示：**Next.js 14.2.3 + React 18 + TypeScript 5**，对齐 PRD《福利专区-AI 购物清单推荐 V1.0》核心动线与《云梦泽好客 C 端 App 规范 0425》提取 Token（色板、间距、圆角、字体栈）。
+纯前端演示：**Next.js 14.2.3 + React 18 + TypeScript 5**，对齐 PRD《福利专区-AI 购物清单推荐 V1.0》核心动线。
 
 ## 动线
 
